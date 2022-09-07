@@ -1,0 +1,49 @@
+.driverCard {
+    position: relative;
+    background-color: #415cbb;
+    border-radius: 10px;
+    width: 98%;
+    height: 140px;
+    margin: 10px;
+    color: white;
+    box-sizing: border-box;
+}
+
+.driver-name {
+    position: absolute;
+    top: 20%;
+    left: 45.5%;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.driver-white-stars {
+    position: absolute;
+    font-size: 2em;
+    left: 45.5%;
+    top: 40%;
+}
+
+.driver-black-stars {
+    position: absolute;
+    font-size: 2em;
+    left: 45.5%;
+    top: 40%;
+}
+
+.driver-car {
+    position: absolute;
+    left: 45.5%;
+    top: 68%;
+    font-size: 1em;
+}
+
+.driverCard img {
+    position: absolute;
+    top: 15%;
+    left: 37%;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+}
