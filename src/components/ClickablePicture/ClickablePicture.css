@@ -1,0 +1,9 @@
+.glasses {
+    margin: 10px;
+    width: 150px;
+    height: auto;
+}
+
+.glasses:hover {
+    cursor: pointer;
+}

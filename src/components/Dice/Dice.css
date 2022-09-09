@@ -1,0 +1,9 @@
+.dice-image {
+    width: 150px;
+    height: auto;
+    margin: 10px;
+}
+
+.dice-image:hover {
+    cursor: pointer;
+}
